@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int roll_numbers[4] = {16, 28, 9, 10};
+    int roll_numbers[4] = {67, 21, 9, 62};
     int n = 4;
 
     for (int i = 0; i < n - 1; i++)
